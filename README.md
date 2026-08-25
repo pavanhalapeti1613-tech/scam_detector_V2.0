@@ -1,2 +1,2 @@
 # scam_detector_V2.0
-the code will be updated soon
+the code will be uploaded soon
